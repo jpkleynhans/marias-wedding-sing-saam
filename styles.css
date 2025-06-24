@@ -60,6 +60,10 @@ header p {
   color: var(--dark-gray);
 }
 
+h3 {
+  padding-top: 10px;
+}
+
 .song-keuses {
   border: 2px solid #800020;
   padding: 20px;
